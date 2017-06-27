@@ -10,7 +10,7 @@
 
 @implementation CTMediator (C)
 
-- (UIViewController *)B_viewController {
+- (UIViewController *)C_viewController {
     return [self performTarget:@"C" action:@"viewController" params:nil shouldCacheTarget:NO];
 }
 

@@ -11,6 +11,6 @@
 
 @interface CTMediator (C)
 
-- (UIViewController *)B_viewController;
+- (UIViewController *)C_viewController;
 
 @end
